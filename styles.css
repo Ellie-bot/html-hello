@@ -1,0 +1,108 @@
+body {
+    background-color: gainsboro;
+    margin: 0%;
+}
+div {
+    box-sizing: border-box;
+}
+header {
+    background-color: white;
+    margin: 0%;
+    padding: 10px;
+}
+div.post {
+    background-color: white;
+}
+div.post img {
+    width: 100%;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 18%;
+}
+div.post h2, div.post p {
+    padding: 10px;
+}
+div.post h2 {
+    padding: 5px;
+}
+div.container {
+    margin: auto;
+    width: 600px;
+}
+div.post2 {
+    background-color: white;
+}
+div.post2 img {
+    width: 100%;
+}
+div.post2 .post-header2 div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post2 .post-header2 div:last-child{
+    display: inline-block;
+    width: 18%;
+}
+div.post2 h2, div.post2 p {
+    padding: 10px;
+}
+div.post2 h2 {
+    padding: 5px;
+}
+div.container2 {
+    margin: auto;
+    width: 600px;
+}
+div.post3 {
+    background-color: white;
+}
+div.post3 img {
+    width: 100%;
+}
+div.post3 .post-header3 div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post3 .post-header3 div:last-child{
+    display: inline-block;
+    width: 18%;
+}
+div.post3 h2, div.post3 p {
+    padding: 10px;
+}
+div.post3 h2 {
+    padding: 5px;
+}
+div.container3 {
+    margin: auto;
+    width: 600px;
+}
+div.post4 {
+    background-color: white;
+}
+div.post4 img {
+    width: 100%;
+}
+div.post4 .post-header4 div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post4 .post-header4 div:last-child{
+    display: inline-block;
+    width: 18%;
+}
+div.post4 h2, div.post4 p {
+    padding: 10px;
+}
+div.post4 h2 {
+    padding: 5px;
+}
+div.container4 {
+    margin: auto;
+    width: 600px;
+}
